@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1098158171715",
+    "firebase_url": "https://login-a5431.firebaseio.com",
+    "project_id": "login-a5431",
+    "storage_bucket": "login-a5431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098158171715:android:2980f79a24bffb59",
+        "android_client_info": {
+          "package_name": "com.tricktekno.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098158171715-jv928rbubpmvlnrshhrpecuj1mqgjt0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tricktekno.login",
+            "certificate_hash": "c0af3c00f54cb7cb6c8477430e1f081399f926a7"
+          }
+        },
+        {
+          "client_id": "1098158171715-i1k0715ogi4i5j0bh49cqpp40eakedki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi21Jbmkjqaizd0CoNNr5AwDzbKZIkKLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098158171715-i1k0715ogi4i5j0bh49cqpp40eakedki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
