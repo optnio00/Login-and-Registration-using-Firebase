@@ -3,8 +3,6 @@
 This demo Android app demonstrates authenticating with Firebase Login for Facebook, Google, Twitter,
 email & password, and anonymous.
 
-![screenshot showing authentication provider buttons](/screenshot.png)
-
 ### Setup
 0. Sign up and create a new [Firebase](https://www.firebase.com).
 0. Create apps for each provider on their developer consoles. See the Firebase
